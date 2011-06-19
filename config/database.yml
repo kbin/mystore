@@ -1,0 +1,19 @@
+development:
+  adapter: mysql
+  database: clickir1_dev
+  username: clickir1_mystore
+  password: ax1753fh
+
+test:
+  adapter: mysql
+  database: clickir1_test
+  username: clickir1_mystore
+  password: ax1753fh
+
+production:
+  adapter: mysql
+  database: clickir1_prod
+  username: clickir1_mystore
+  password: ax1753fh
+
+
